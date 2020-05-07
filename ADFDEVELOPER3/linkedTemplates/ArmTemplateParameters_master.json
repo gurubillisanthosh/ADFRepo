@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFDEVELOPER3"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
